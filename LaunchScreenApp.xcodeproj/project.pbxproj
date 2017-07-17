@@ -12,6 +12,7 @@
 		FC563E191F1D3D0100154D43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC563E171F1D3D0100154D43 /* Main.storyboard */; };
 		FC563E1B1F1D3D0100154D43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC563E1A1F1D3D0100154D43 /* Assets.xcassets */; };
 		FC563E1E1F1D3D0100154D43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC563E1C1F1D3D0100154D43 /* LaunchScreen.storyboard */; };
+		FC563E261F1D3E7300154D43 /* udemylogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC563E251F1D3E7300154D43 /* udemylogo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FC563E1A1F1D3D0100154D43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC563E1D1F1D3D0100154D43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC563E1F1F1D3D0100154D43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC563E251F1D3E7300154D43 /* udemylogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = udemylogo.jpg; path = ../../../Downloads/udemylogo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		FC563E121F1D3D0100154D43 /* LaunchScreenApp */ = {
 			isa = PBXGroup;
 			children = (
+				FC563E251F1D3E7300154D43 /* udemylogo.jpg */,
 				FC563E131F1D3D0100154D43 /* AppDelegate.swift */,
 				FC563E151F1D3D0100154D43 /* ViewController.swift */,
 				FC563E171F1D3D0100154D43 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC563E1E1F1D3D0100154D43 /* LaunchScreen.storyboard in Resources */,
+				FC563E261F1D3E7300154D43 /* udemylogo.jpg in Resources */,
 				FC563E1B1F1D3D0100154D43 /* Assets.xcassets in Resources */,
 				FC563E191F1D3D0100154D43 /* Main.storyboard in Resources */,
 			);
